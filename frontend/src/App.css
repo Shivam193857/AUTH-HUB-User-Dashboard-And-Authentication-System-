@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;1,300&display=swap');
+
+.App{
+  min-height:100vh;
+  display:flex;
+  background-image:url("myBackground1.jpg");
+  background-size:cover;
+  background-position:right;
+
+}
+
+
+
+/* Key characteristics of min-height:
+
+    Prevents shrinking:
+    If the content within an element is less than the min-height value, the element will still maintain the specified minimum height.
+    Allows expansion:
+    If the content within an element is greater than the min-height value, the element will expand to accommodate the content. The min-height property will not restrict the element from growing taller.
+    Overrides height:
+    If a height property is also defined for the same element, and its value is less than the min-height, the min-height will take precedence.
+    Units:
+    min-height can be specified using various CSS units, such as pixels (px), percentages (%), ems (em), rems (rem), viewport units (vh, vw), and content-based keywords (min-content, max-content, fit-content). */
+    
+    
+/* The CSS background-position property controls the initial position of a background image within an element. By default, a background image is placed at the top-left corner of its containing element. 
+Values for background-position:
+
+Keywords:
+        top, bottom, left, right, center.
+        These can be combined, e.g., top right, center center. If only one keyword is provided, the other value defaults to center. For example, background-position: top; is equivalent to background-position: top center;. */
