@@ -40,7 +40,7 @@ It’s useful as a starting point for applications like admin panels, employee p
 ## ⚡ Installation & Setup
 ### 🖥️ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/AuthHub-User-Dashboard-And-Authentication-System.git
+git clone https://github.com/Shivam193857/AUTH-HUB-User-Dashboard-And-Authentication-System-.git
 cd AuthHub-User-Dashboard-And-Authentication-System
 ```
 📦 Install dependencies
